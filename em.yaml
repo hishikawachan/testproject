@@ -1,0 +1,6 @@
+dbip: localhost
+dbmarianame: emoney
+dbport: '3306'
+dbpw: KW708kiwa
+dbuser: emoney
+dir_filepath: C:/em
